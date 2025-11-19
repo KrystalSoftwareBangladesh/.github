@@ -3,8 +3,9 @@
 **Krystal Bangladesh** is focused to develop software that helps to maintain the business easiliy.
 
 ### Products
-#### KTexPro
+#### 1. KTexPro
 Garments/Textile industry CRM
+[Demo](https://ktexpro-dev.rkshaon.info/)
 
 ### Developers
 - [Rezaul Karim Shaon](https://github.com/rkshaon)
